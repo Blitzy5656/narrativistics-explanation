@@ -1,0 +1,18 @@
+html {
+    font-family: 'reddit sans';
+    color: #ffffff;
+    background-color: #252525;
+}
+
+.topNav {
+    border-bottom: 2px solid #454545;
+}
+
+.link {
+    display: inline;
+}
+
+.link a {
+    padding-right: 10%;
+    text-decoration: none;
+}
