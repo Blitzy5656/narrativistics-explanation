@@ -15,4 +15,17 @@ html {
 .link a {
     padding-right: 10%;
     text-decoration: none;
+    color: #359648;
 }
+
+a:visited {
+    color: #43bf5c;
+  }
+  
+a:hover {
+    color: #4ee66c;
+  }
+  
+a:active {
+    color: #4dfa70;
+  }
