@@ -14,7 +14,7 @@ html {
 }
 
 .bgtop {
-    background-image: url('nar1.png');
+    background-image: url("nar1.png");
     min-height: 400px;
     background-attachment: fixed;
     background-position: center;
@@ -23,7 +23,7 @@ html {
 }
 
 .bgbottom {
-    background-image: url('nar2.png');
+    background-image: url("nar2.png");
     min-height: 500px;
     background-attachment: fixed;
     background-position: center;
