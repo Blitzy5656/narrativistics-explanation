@@ -5,11 +5,12 @@ html {
 }
 
 .topNav {
-    border-bottom: 2px solid #454545;
+    border-bottom: 2px solid #454545
 }
 
 .link {
     display: inline;
+    border-bottom: 2px solid #454545;
 }
 
 .link a {
