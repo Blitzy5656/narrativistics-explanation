@@ -23,6 +23,7 @@ html {
 .link {
     display: inline;
     z-index: 1;
+    padding: 16px 0px 16px;
 }
 
 .link a {
