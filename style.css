@@ -16,18 +16,18 @@ html {
 .link a {
     padding-right: 10%;
     text-decoration: none;
-    color: #359648;
+    color: #357196;
 }
 
 a:visited {
-    color: #43bf5c;
+    color: #40b9bd;
   }
   
 a:hover {
-    color: #4ee66c;
+    color: #408dbd;
     border-bottom: 2px solid #555555;
   }
   
 a:active {
-    color: #4dfa70;
+    color: #ffffff;
   }
