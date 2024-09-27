@@ -4,9 +4,16 @@ html {
     background-color: #252525;
 }
 
+.text {
+    font-size: 16px;
+    white-space: pre;
+}
+
 .topNav {
   position: sticky;  
   top: 0;
+  background-color: #2e2e2e;
+  border-image: linear-gradient(180deg, rgba(46,46,46,0.6), rgba(46,46,46,0));
 }
 
 .link {
