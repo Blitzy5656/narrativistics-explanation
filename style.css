@@ -35,6 +35,14 @@ html {
     height: 250px;
 }
 
+@keyframes hover {
+  0%   {left:0px; top:0px;}
+  25%  {left:1px; top:0px;}
+  50%  {left:1px; top:1px;}
+  75%  {left:0px; top:1px;}
+  100% {left:0px; top:0px;}
+}
+
 .topNav {
   position: sticky;  
   top: 0;
@@ -62,6 +70,7 @@ a:visited {
 a:hover {
     color: #20506e;
     text-decoration: underline;
+    animation: hover 1 linear 0.1 infinite;
 }
   
 a:active {
