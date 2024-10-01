@@ -14,8 +14,9 @@ html {
 
 .quote {
     background-color: #353535;
-    border: 2px solid #151515;
-    box-shadow: 0 0 #050505;
+    border: 2px solid #202020;
+    border-radius: 5px;
+    box-shadow: 0 0 0 #050505;
 }
 
 .bgtop {
