@@ -60,10 +60,10 @@ html {
     z-index: 1;
     font-weight: bold;
     padding-right: 5%;
+    text-decoration: none;
 }
 
 .a {
-    text-decoration: none;
     color: #357196;
 }
 
