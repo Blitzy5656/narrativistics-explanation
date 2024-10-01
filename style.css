@@ -13,7 +13,7 @@ html {
 }
 
 hr.dark {
-    color: #272727;
+    border: 1px solid #272727;
 } 
 
 .bgtop {
