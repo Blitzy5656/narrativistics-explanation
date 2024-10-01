@@ -13,10 +13,11 @@ html {
 }
 
 .quote {
-    background-color: #353535;
+    background-color: #303030;
     border: 2px solid #202020;
     border-radius: 5px;
     box-shadow: 0 0 0 #050505;
+    padding: 3px;
 }
 
 .bgtop {
@@ -97,7 +98,6 @@ a:active {
 .tooltip {
     position: relative;
     display: inline-block;
-    border-bottom: 1px dotted #ffffff; 
 }
   
 .tooltip .tooltiptext {
