@@ -63,8 +63,10 @@ html {
     text-decoration: none;
 }
 
-.a {
+.a:link {
     color: #357196;
+    padding-right: 5%;
+    text-decoration: none;
 }
 
 a:visited {
