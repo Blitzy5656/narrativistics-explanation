@@ -59,13 +59,16 @@ html {
     display: inline;
     z-index: 1;
     font-weight: bold;
+}
+
+.link a {
+    color: #357196;
     padding-right: 5%;
     text-decoration: none;
 }
 
 .a:link {
     color: #357196;
-    padding-right: 5%;
     text-decoration: none;
 }
 
