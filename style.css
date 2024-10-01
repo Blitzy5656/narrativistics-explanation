@@ -59,10 +59,10 @@ html {
     display: inline;
     z-index: 1;
     font-weight: bold;
+    padding-right: 5%;
 }
 
 .a {
-    padding-right: 5%;
     text-decoration: none;
     color: #357196;
 }
