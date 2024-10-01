@@ -95,7 +95,7 @@ a:active {
   
 .tooltip .tooltiptext {
     visibility: hidden;
-    width: 120px;
+    width: auto;
     background-color: black;
     color: #fff;
     text-align: center;
@@ -113,3 +113,8 @@ a:active {
     visibility: visible;
 }
   /* W3 Schools code stop */
+
+.super {
+    vertical-align: super;
+    font-size: smaller;
+}
