@@ -12,6 +12,12 @@ html {
     font-size: 16px;
 }
 
+.quote {
+    background-color: #353535;
+    border: 2px solid #151515;
+    box-shadow: 0 0 #050505;
+}
+
 .bgtop {
     background-image: url('images/nar1.png');
     min-height: 600px;
@@ -112,9 +118,4 @@ a:active {
 .tooltip:hover .tooltiptext {
     visibility: visible;
 }
-  /* W3 Schools code stop */
-
-.super {
-    vertical-align: super;
-    font-size: smaller;
-}
+/* W3 Schools code stop */
