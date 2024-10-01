@@ -12,6 +12,10 @@ html {
     font-size: 16px;
 }
 
+hr.dark {
+    color: #272727;
+} 
+
 .bgtop {
     background-image: url('images/nar1.png');
     min-height: 600px;
@@ -90,7 +94,6 @@ a:active {
 .tooltip {
     position: relative;
     display: inline-block;
-    border-bottom: 1px dotted #ffffff;
 }
   
 .tooltip .tooltiptext {
