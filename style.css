@@ -85,3 +85,31 @@ a:hover {
 a:active {
     color: #ffffff;
 }
+
+/* W3 Schools code start */
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted #ffffff; 
+}
+  
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    position: absolute;
+    z-index: 1;
+    width: 120px;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -60px;
+}
+  
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+  /* W3 Schools code stop */
