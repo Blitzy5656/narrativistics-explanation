@@ -35,7 +35,7 @@ hr.dark {
 }
 
 .scrolltext {
-    height: 250px;
+    min-height: 250px;
     padding: 4px 6px 4px 10px;
 }
 
