@@ -48,6 +48,7 @@ hr.dark {
 .scrolltextsmall {
     height: 20px;
     position: sticky;
+    bottom: 0;
 }
 
 @keyframes hover {
