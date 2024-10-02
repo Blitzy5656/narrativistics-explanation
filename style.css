@@ -61,13 +61,22 @@ hr.dark {
 
 .link {
     display: inline;
-    z-index: 1;
     font-weight: bold;
 }
 
 .link a {
     color: #357196;
     padding-right: 5%;
+    text-decoration: none;
+}
+
+.link2 {
+    display: inline;
+    font-weight: bold;
+}
+
+.link2 a {
+    color: #357196;
     text-decoration: none;
 }
 
