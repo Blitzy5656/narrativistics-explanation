@@ -49,6 +49,9 @@ hr.dark {
     height: 20px;
     position: sticky;
     bottom: 0;
+    background-color: #252525;
+    border-top: 2px solid #454545;
+    padding: 6px 0px 6px;
 }
 
 @keyframes hover {
