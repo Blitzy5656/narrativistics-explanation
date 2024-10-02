@@ -12,6 +12,12 @@ html {
     font-size: 16px;
 }
 
+.psym { /* 'psym' is short for particle symbol */
+    font-family: 'playfair display';
+    font-style: italic;
+    font-weight: bold;
+}
+
 hr.dark {
     border: 1px solid #303030;
 } 
@@ -41,6 +47,7 @@ hr.dark {
 
 .scrolltextsmall {
     height: 20px;
+    position: sticky;
 }
 
 @keyframes hover {
