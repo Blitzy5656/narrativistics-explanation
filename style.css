@@ -32,10 +32,10 @@ hr.dark {
     opacity: 0.8;
     margin: 20px 50px;
     padding: 10px;
-    border-top: 2px solid rgb(25,25,25);
-    border-left: 2px solid rgb(25,25,25);
-    border-right: 2px solid rgb(22,22,22);
-    border-bottom: 2px solid rgb(22,22,22);
+    border-top: 2px solid rgb(30,30,30);
+    border-left: 2px solid rgb(30,30,30);
+    border-right: 2px solid rgb(27,27,27);
+    border-bottom: 2px solid rgb(27,27,27);
   }
 
 /*----general----*/
