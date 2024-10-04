@@ -11,6 +11,7 @@ html {
 .text {
     font-size: 16px;
     width: 80%;
+    margin: auto;
 }
 
 .psym { /* 'psym' is short for particle symbol */
