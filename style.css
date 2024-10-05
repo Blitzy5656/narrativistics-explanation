@@ -19,6 +19,8 @@ html {
 
 .psym { /* 'psym' is short for particle symbol */
     font-family: 'playfair display';
+    font-style: italic;
+    font-weight: bold;
 }
 
 hr.dark {
@@ -38,24 +40,6 @@ hr.dark {
   }
 
 /*----general----*/
-/*------end------*/
-
-/*-----fonts-----*/
-/*-----start-----*/
-
-@font-face { /* Regular Font */
-    font-family: reddit sans;
-    src: url('https://fonts.googleapis.com/css2?family=Reddit+Sans:ital,wght@0,200..900;1,200..900&display=swap');
-  }
-
-@font-face { /* Particle Abbreviation Font */
-    font-family: playfair display;
-    src: url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
-    font-style: italic;
-    font-weight: bold;
-}
-
-/*-----fonts-----*/
 /*------end------*/
 
 /*-----table-----*/
