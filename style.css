@@ -45,15 +45,15 @@ hr.dark {
 /*-----start-----*/
 
 table {
-    border: 2px solid #303030;
+    border: 1px solid #282828;
     background-color: #202020;
     text-align: center;
     margin: auto;
 }
 
 th, td {
-    border: 2px solid #272727;
-    background-color: #252525;
+    border: 1px solid #272727;
+    background-color: #292929;
     text-align: center;
     margin: 4px;
     padding: 2px;
