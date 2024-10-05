@@ -51,11 +51,10 @@ table {
     margin: auto;
 }
 
-th, td {
+tr, th, td {
     border: 1px solid #272727;
     background-color: #292929;
     text-align: center;
-    margin: 4px;
     padding: 2px;
 }
 
