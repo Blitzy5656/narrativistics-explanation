@@ -32,6 +32,7 @@ hr.dark {
     opacity: 0.8;
     margin: 20px 100px;
     padding: 10px;
+    text-align: center;
     border-top: 2px solid rgb(30,30,30);
     border-left: 2px solid rgb(30,30,30);
     border-right: 2px solid rgb(27,27,27);
@@ -55,7 +56,9 @@ tr, th, td {
     border: 1px solid #272727;
     background-color: #292929;
     text-align: center;
-    padding: 2px;
+    padding: 4px;
+    border-collapse: separate;
+    border-spacing: 2px;
 }
 
 /*-----table-----*/
