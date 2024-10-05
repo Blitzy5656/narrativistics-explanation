@@ -50,6 +50,8 @@ table {
     background-color: #202020;
     text-align: center;
     margin: auto;
+    border-collapse: separate;
+    border-spacing: 2px;
 }
 
 tr, th, td {
@@ -57,8 +59,6 @@ tr, th, td {
     background-color: #292929;
     text-align: center;
     padding: 4px;
-    border-collapse: separate;
-    border-spacing: 2px;
 }
 
 /*-----table-----*/
