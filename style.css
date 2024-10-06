@@ -52,7 +52,7 @@ table {
     margin: auto;
     border-collapse: separate;
     border-spacing: 4px;
-    max-width: 900px;
+    max-width: 80%;
 }
 
 tr, th, td {
