@@ -75,7 +75,8 @@ tr, th, td {
 
 .bgtop {
     background-image: url('images/nar1.png');
-    min-height: 600px;
+    min-height: 400px;
+    translate: translateY(150px);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
