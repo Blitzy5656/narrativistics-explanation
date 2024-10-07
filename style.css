@@ -25,6 +25,7 @@ html {
 
 .tele { /* 'tele' is short for teletype */
     font-family: 'montagu slab';
+    font-weight: bold;
 }
 
 hr.dark {
