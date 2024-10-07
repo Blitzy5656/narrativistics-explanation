@@ -33,15 +33,15 @@ hr.dark {
 } 
 
 .quote {
-    background-color: rgb(36,37,39);
+    background-color: #242526;
     opacity: 0.8;
     margin: 20px 100px;
     padding: 10px;
     text-align: center;
-    border-top: 2px solid rgb(30,30,30);
-    border-left: 2px solid rgb(30,30,30);
-    border-right: 2px solid rgb(27,27,27);
-    border-bottom: 2px solid rgb(27,27,27);
+    border-top: 2px solid #1e1e1e;
+    border-left: 2px solid #1e1e1e;
+    border-right: 2px solid #1b1b1b;
+    border-bottom: 2px solid #1b1b1b;
   }
 
 /*----general----*/
