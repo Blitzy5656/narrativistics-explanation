@@ -105,7 +105,7 @@ tr, th, td {
 }
 
 .scrolltextsmall {
-    height: 20px;
+    height: auto;
     position: sticky;
     bottom: 0;
     background-color: #252525;
