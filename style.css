@@ -291,7 +291,7 @@ a:active {
 /*------w3code-----*/
 /*-------end-------*/
 
-@media (max-width: 800px) {
+@media (min-width: 800px) {
     div.bgtop {
         min-height: 200px
     }
