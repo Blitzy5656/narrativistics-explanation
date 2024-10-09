@@ -67,6 +67,96 @@ tr, th, td {
     padding: 4px;
 }
 
+.hct { /* headcanon energy, cognitron, anticognitron */
+    color: #000000;
+    background-color: #ffffff;
+}
+
+.kic { /* knoleme, incogneme */
+    color: #000000;
+    background-color: #579587;
+}
+
+.mem { /* meme */
+    color: #000000;
+    background-color: #f4ffc0;
+}
+
+.atm { /* antimeme */
+    color: #ffffff;
+    background-color: #000000;
+}
+
+.nar { /* narreme, antinarreme, narrateme */
+    color: #000000;
+    background-color: #1a8138;
+}
+
+.chr { /* chronon, antichronon, continuon, chroneme */
+    color: #000000;
+    background-color: #aa422e;
+}
+
+.cul { /* cultureme */
+    color: #000000;
+    background-color: #66675a;
+}
+
+.eth { /* ideologeme, iconomere, */
+    color: #000000;
+    background-color: #945762;
+}
+
+.mac { /* mytheme, antimytheme/cosmomere */
+    color: #000000;
+    background-color: #6a8e7c;
+}
+
+.sem { /* seme, antiseme, glosseme, taxeme, classeme */
+    color: #000000;
+    background-color: #2a376a;
+}
+
+.avr { /* valeme, antivaleme, rouseme, antirouseme */
+    color: #000000;
+    background-color: #878887;
+}
+
+.sta { /* syntacteme, tagmeme, antigrammeme */
+    color: #000000;
+    background-color: #e48c7b
+}
+
+.mas { /* morph, antimorph, moneme, syllabeme */
+    color: #000000;
+    background-color: #e08336;
+}
+
+.lsa { /* lexeme, semanteme/sememe, antitacteme */
+    color: #000000;
+    background-color: #fc4e69;
+}
+
+.abc { /* acteme, behavioreme, chereme, antikineme */
+    color: #000000;
+    background-color: #2c88f9;
+}
+
+.gpe { /* grapheme/glypheme, antigrapheme/antiglypheme */
+    color: #000000;
+    background-color: #2cbb87;
+}
+
+.pti { /* phoneme, toneme, intoneme, prosodeme, antiphoneme */
+    color: #000000;
+    background-color: #579587;
+}
+
+.bit { /* bit+, bit- */
+    color: #000000;
+    background-color: #bdbfc7;
+}
+
 /*-----table-----*/
 /*------end------*/
 
