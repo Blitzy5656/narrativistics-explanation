@@ -67,6 +67,11 @@ tr, th, td {
     padding: 4px;
 }
 
+.hed { /* table head */
+    color: #000000;
+    background-color: #357196;
+}
+
 .hct { /* headcanon energy, cognitron, anticognitron */
     color: #000000;
     background-color: #ffffff;
@@ -279,23 +284,88 @@ a:active {
     position: absolute;
     z-index: 1;
     width: 300px;
-    bottom: 100%;
+    top: 100%;
     left: 50%;
-    margin-left: -60px;
+    margin-left: -150px;
 }
   
 .tooltip:hover .tooltiptext {
     visibility: visible;
 }
 
-/*------w3code-----*/
-/*-------end-------*/
+    /*------media------*/
+    /*------start------*/
 
-@media (min-width: 800px) {
-    div.bgtop {
+@media only screen and (min-width: 769px) and (max-width: px){
+    .link {
+        display: block;
+    }
+    .bgtop {
         min-height: 200px
     }
-    div.bgbottom {
+    .bgbottom {
         min-height: 300px
     }
 }
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .link {
+        display: block;
+    }
+    .bgtop {
+        min-height: 200px
+    }
+    .bgbottom {
+        min-height: 300px
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .link {
+        display: block;
+    }
+    .bgtop {
+        min-height: 250px
+    }
+    .bgbottom {
+        min-height: 350px
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .bgtop {
+        min-height: 400px
+    }
+    .bgbottom {
+        min-height: 400px
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .bgtop {
+        min-height: 425px
+    }
+    .bgbottom {
+        min-height: 425px
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .bgtop {
+        min-height: 450px
+    }
+    .bgbottom {
+        min-height: 450px
+    }
+} 
+
+    /*------media------*/
+    /*-------end-------*/
+
+/*------w3code-----*/
+/*-------end-------*/
