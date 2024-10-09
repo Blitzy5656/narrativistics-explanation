@@ -290,3 +290,12 @@ a:active {
 
 /*------w3code-----*/
 /*-------end-------*/
+
+@media only screen and (max-width: 800px) {
+    .bgtop {
+        min-height: 200px
+    }
+    .bgbottom {
+        min-height: 300px
+    }
+}
