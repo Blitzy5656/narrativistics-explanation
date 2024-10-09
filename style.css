@@ -165,7 +165,7 @@ tr, th, td {
 
 .bgtop {
     background-image: url('images/nar1.png');
-    min-height: 400px;
+    max-height: 400px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -174,7 +174,7 @@ tr, th, td {
 
 .bgbottom {
     background-image: url('images/nar2.png');
-    min-height: 500px;
+    max-height: 500px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
