@@ -292,10 +292,10 @@ a:active {
 /*-------end-------*/
 
 @media only screen (min-width: 600px) and (max-width: 800px) {
-    .bgtop {
+    div.bgtop {
         min-height: 200px
     }
-    .bgbottom {
+    div.bgbottom {
         min-height: 300px
     }
 }
