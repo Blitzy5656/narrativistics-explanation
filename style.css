@@ -295,19 +295,7 @@ a:active {
 
     /*------media------*/
     /*------start------*/
-
-@media only screen and (min-width: 769px) and (max-width: px){
-    .link {
-        display: block;
-    }
-    .bgtop {
-        min-height: 200px
-    }
-    .bgbottom {
-        min-height: 300px
-    }
-}
-
+    
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
     .bgtop {
