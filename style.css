@@ -78,7 +78,6 @@ tr, th, td {
     color: #000000;
     text-align: center;
     background-image: url('images/sig-log-div.png');
-    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
