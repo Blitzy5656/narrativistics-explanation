@@ -337,7 +337,7 @@ a:active {
     .bgbottom {
         min-height: 350px
     }
-    .scrolltext {
+    .scrolltext, .text {
         font-size: 20px;
     }
 }
@@ -353,7 +353,7 @@ a:active {
     .bgbottom {
         min-height: 400px
     }
-    .scrolltext {
+    .scrolltext, .text {
         font-size: 24px;
     }
 }
@@ -369,7 +369,7 @@ a:active {
     .bgbottom {
         min-height: 425px
     }
-    .scrolltext {
+    .scrolltext, .text {
         font-size: 32px;
     }
 }
@@ -385,7 +385,7 @@ a:active {
     .bgbottom {
         min-height: 450px
     }
-    .scrolltext {
+    .scrolltext, .text {
         font-size: 32px;
     }
 } 
