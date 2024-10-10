@@ -46,6 +46,9 @@ hr.dark {
 
 .license {
     font-size: 12px;
+    margin: auto;
+    text-align: center;
+    border-top: #454545;
 }
 
 /*----general----*/
@@ -318,6 +321,9 @@ a:active {
     .bgbottom {
         min-height: 300px
     }
+    .scrolltext {
+        font-size: 16px;
+    }
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
@@ -330,6 +336,9 @@ a:active {
     }
     .bgbottom {
         min-height: 350px
+    }
+    .scrolltext {
+        font-size: 20px;
     }
 }
 
@@ -344,6 +353,9 @@ a:active {
     .bgbottom {
         min-height: 400px
     }
+    .scrolltext {
+        font-size: 24px;
+    }
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
@@ -357,6 +369,9 @@ a:active {
     .bgbottom {
         min-height: 425px
     }
+    .scrolltext {
+        font-size: 32px;
+    }
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
@@ -369,6 +384,9 @@ a:active {
     }
     .bgbottom {
         min-height: 450px
+    }
+    .scrolltext {
+        font-size: 32px;
     }
 } 
 
