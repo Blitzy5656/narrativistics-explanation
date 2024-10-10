@@ -80,7 +80,7 @@ tr, th, td {
     background-image: url('images/sig-log-div.png');
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: auto;
 }
 
 .hed { /* table head */
