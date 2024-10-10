@@ -46,9 +46,9 @@ hr.dark {
 
 .license {
     font-size: 16px;
+    padding: 8px;
     margin: auto;
     text-align: center;
-    border-top: #454545;
 }
 
 /*----general----*/
