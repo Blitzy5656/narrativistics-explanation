@@ -42,7 +42,11 @@ hr.dark {
     border-left: 2px solid #1e1e1e;
     border-right: 2px solid #1b1b1b;
     border-bottom: 2px solid #1b1b1b;
-  }
+}
+
+.license {
+    font-size: 12px;
+}
 
 /*----general----*/
 /*------end------*/
@@ -314,10 +318,6 @@ a:active {
     .bgbottom {
         min-height: 300px
     }
-    .tooltip, .tooltiptext {
-        top: -5px;
-        left: 105%; 
-    }
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
@@ -330,11 +330,6 @@ a:active {
     }
     .bgbottom {
         min-height: 350px
-    }
-    .tooltip, .tooltiptext {
-        top: -5px;
-        left: 105%; 
-        margin-left: 0px;
     }
 }
 
