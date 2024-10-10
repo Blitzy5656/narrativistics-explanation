@@ -67,6 +67,13 @@ tr, th, td {
     padding: 4px;
 }
 
+.ssl {
+    color: #000000;
+    background-image: #e48c7b, #e08336, #fc4e69, #2c88f9, #2cbb87, #579587;
+    rotate: 35deg, 35deg, 35deg, 35deg, 35deg, 35deg;
+    background-size: cover;
+}
+
 .hed { /* table head */
     color: #000000;
     background-color: #357196;
@@ -129,7 +136,7 @@ tr, th, td {
 
 .sta { /* syntacteme, tagmeme, antigrammeme */
     color: #000000;
-    background-color: #e48c7b
+    background-color: #e48c7b;
 }
 
 .mas { /* morph, antimorph, moneme, syllabeme */
@@ -154,7 +161,7 @@ tr, th, td {
 
 .pti { /* phoneme, toneme, intoneme, prosodeme, antiphoneme */
     color: #000000;
-    background-color: #579587;
+    background-color: #b8315b;
 }
 
 .bit { /* bit+, bit- */
@@ -284,9 +291,8 @@ a:active {
     position: absolute;
     z-index: 1;
     width: 300px;
-    top: 100%;
-    left: 50%;
-    margin-left: -150px;
+    top: -5px;
+    left: 105%; 
 }
   
 .tooltip:hover .tooltiptext {
@@ -298,6 +304,9 @@ a:active {
     
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
+    .link {
+        display: block;
+    }
     .bgtop {
         min-height: 200px
     }
@@ -321,31 +330,58 @@ a:active {
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
+    .link {
+        display: inline;
+    }
     .bgtop {
         min-height: 400px
     }
     .bgbottom {
         min-height: 400px
+    }
+    .tooltip, .tooltiptext {
+        width: 300px;
+        top: 100%;
+        left: 50%;
+        margin-left: -150px;
     }
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
+    .link {
+        display: inline;
+    }
     .bgtop {
         min-height: 425px
     }
     .bgbottom {
         min-height: 425px
+    }
+    .tooltip, .tooltiptext {
+        width: 300px;
+        top: 100%;
+        left: 50%;
+        margin-left: -150px;
     }
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
+    .link {
+        display: inline;
+    }
     .bgtop {
         min-height: 450px
     }
     .bgbottom {
         min-height: 450px
+    }
+    .tooltip, .tooltiptext {
+        width: 300px;
+        top: 100%;
+        left: 50%;
+        margin-left: -150px;
     }
 } 
 
