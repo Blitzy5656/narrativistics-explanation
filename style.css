@@ -77,9 +77,17 @@ tr, th, td {
 .ssl {
     color: #000000;
     text-align: center;
+    background-color: #7f419b;
+}
+
+/* unresolved 
+.ssl {
+    color: #000000;
+    text-align: center;
     background-image: #e48c7b, #e08336, #fc4e69, #2c88f9, #2cbb87, #579587;
     background-size: cover;
 }
+*/
 
 .hed { /* table head */
     color: #000000;
