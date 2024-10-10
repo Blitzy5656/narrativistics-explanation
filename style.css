@@ -291,8 +291,9 @@ a:active {
     position: absolute;
     z-index: 1;
     width: 300px;
-    top: -5px;
-    left: 105%; 
+    top: 100%;
+    left: 50%;
+    margin-left: -150px;
 }
   
 .tooltip:hover .tooltiptext {
@@ -313,6 +314,10 @@ a:active {
     .bgbottom {
         min-height: 300px
     }
+    .tooltip, .tooltiptext {
+        top: -5px;
+        left: 105%; 
+    }
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
@@ -325,6 +330,11 @@ a:active {
     }
     .bgbottom {
         min-height: 350px
+    }
+    .tooltip, .tooltiptext {
+        top: -5px;
+        left: 105%; 
+        margin-left: 0px;
     }
 }
 
@@ -339,12 +349,6 @@ a:active {
     .bgbottom {
         min-height: 400px
     }
-    .tooltip, .tooltiptext {
-        width: 300px;
-        top: 100%;
-        left: 50%;
-        margin-left: -150px;
-    }
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
@@ -358,12 +362,6 @@ a:active {
     .bgbottom {
         min-height: 425px
     }
-    .tooltip, .tooltiptext {
-        width: 300px;
-        top: 100%;
-        left: 50%;
-        margin-left: -150px;
-    }
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
@@ -376,12 +374,6 @@ a:active {
     }
     .bgbottom {
         min-height: 450px
-    }
-    .tooltip, .tooltiptext {
-        width: 300px;
-        top: 100%;
-        left: 50%;
-        margin-left: -150px;
     }
 } 
 
