@@ -213,6 +213,12 @@ tr, th, td {
     margin: auto;
 }
 
+.scrolltextin {
+    font-size: 16px;
+    width: 80%;
+    margin: auto;
+}
+
 .scrolltextsmall {
     height: auto;
     position: sticky;
@@ -337,7 +343,7 @@ a:active {
     .bgbottom {
         min-height: 350px
     }
-    .scrolltext, .text {
+    .scrolltext, .scrolltextin {
         font-size: 20px;
     }
 }
@@ -353,7 +359,7 @@ a:active {
     .bgbottom {
         min-height: 400px
     }
-    .scrolltext, .text {
+    .scrolltext, .scrolltextin {
         font-size: 24px;
     }
 }
@@ -369,7 +375,7 @@ a:active {
     .bgbottom {
         min-height: 425px
     }
-    .scrolltext, .text {
+    .scrolltext, .scrolltextin {
         font-size: 32px;
     }
 }
@@ -385,7 +391,7 @@ a:active {
     .bgbottom {
         min-height: 450px
     }
-    .scrolltext, .text {
+    .scrolltext, .scrolltextin {
         font-size: 32px;
     }
 } 
