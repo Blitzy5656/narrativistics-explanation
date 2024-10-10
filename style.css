@@ -348,10 +348,10 @@ a:active {
         display: block;
     }
     .bgtop {
-        min-height: 250px
+        max-height: 250px
     }
     .bgbottom {
-        min-height: 350px
+        max-height: 350px
     }
     .scrolltext, .scrolltextin {
         font-size: 20px;
@@ -364,10 +364,10 @@ a:active {
         display: inline;
     }
     .bgtop {
-        min-height: 400px
+        max-height: 400px
     }
     .bgbottom {
-        min-height: 400px
+        max-height: 400px
     }
     .scrolltext, .scrolltextin {
         font-size: 24px;
@@ -380,10 +380,10 @@ a:active {
         display: inline;
     }
     .bgtop {
-        min-height: 425px
+        max-height: 425px
     }
     .bgbottom {
-        min-height: 425px
+        max-height: 425px
     }
     .scrolltext, .scrolltextin {
         font-size: 32px;
@@ -396,10 +396,10 @@ a:active {
         display: inline;
     }
     .bgtop {
-        min-height: 450px
+        max-height: 450px
     }
     .bgbottom {
-        min-height: 450px
+        max-height: 450px
     }
     .scrolltext, .scrolltextin {
         font-size: 32px;
