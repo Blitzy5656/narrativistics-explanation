@@ -77,7 +77,7 @@ tr, th, td {
 .ssl {
     color: #000000;
     text-align: center;
-    background-image: url('images/sig-log-div.png');
+    background-image: url('images/pixil-frame-0.png'); /* it's like 'sig-log-div.png', except that it was influenced by Windows 11 and now is bloatware. the file size went from  113 bytes to 311 kilobytes. */
     background-position: center;
     background-repeat: repeat-x;
     background-size: cover;
