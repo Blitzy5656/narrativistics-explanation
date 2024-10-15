@@ -77,13 +77,18 @@ tr, th, td {
 .ssl {
     color: #000000;
     text-align: center;
-    background-image: url('images/pixil-frame-0.png'); /* it's like 'sig-log-div.png', except that it was influenced by Windows 11 and now is bloatware. the file size went from  113 bytes to 311 kilobytes but its worth it because 'it looks nice'. i don't hate Windows 11 i just wanted to tell you that the image is now bigger. /s because i can't convey emotion through text easily. */
+    background-image: url('images/pixil-frame-0.png'); /* it's like 'sig-log-div.png', except that it was influenced by Windows 11 and now is bloatware. the file size went from  113 bytes to 311 kilobytes but its worth it because 'it looks nice'. i hate Windows 11 and i just wanted to tell you that the image is now bigger. /srs because i can't convey emotion through text easily. */
     background-position: center;
     background-repeat: repeat;
     background-size: cover;
 }
 
 .hed { /* table head */
+    color: #000000;
+    background-color: #357196;
+}
+
+.heu { /* headcannon energy, ur-cognitron */
     color: #000000;
     background-color: #357196;
 }
