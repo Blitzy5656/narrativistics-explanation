@@ -90,12 +90,12 @@ tr, th, td {
 
 .heu { /* headcannon energy, ur-cognitron */
     color: #000000;
-    background-color: #bbbbbb;
+    background-color: #ffffff;
 }
 
 .cac { /* cognitron, anticognitron */
     color: #000000;
-    background-color: #ffffff;
+    background-color: #bbbbbb;
 }
 
 .kic { /* knoleme, incogneme */
